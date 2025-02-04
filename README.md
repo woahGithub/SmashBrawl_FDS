@@ -13,17 +13,21 @@
 3. disksys.rom ができたらそれをそのまま保存
 
 main.dol の抽出方法
-<details><summary>[Dolphin](https://dolphin-emu.org/) を使う方法</summary>
-  
-  1. 右クリックから「プロパティ」 → 「構造」タブを開く
-  2. HBAJ01, HBCJ01 でそれぞれ右クリック → 「システムデータを抽出...」 をクリック
-  3. sys フォルダ に main.dol がある
+<details><summary>Dolphin を使う方法</summary>
+
+  1. Dolphin をインストール
+     https://dolphin-emu.org/
+  2. 右クリックから「プロパティ」 → 「構造」タブを開く
+  3. HBAJ01, HBCJ01 でそれぞれ右クリック → 「システムデータを抽出...」 をクリック
+  4. sys フォルダ に main.dol がある
   
 </details>
-<details><summary>[WiiScrubber](https://wiidatabase.de/downloads/pc-tools/wiiscrubber/) を使う方法</summary>
-  
-  1. MakeKeyBin.exe を起動し, ウィンドウの指示に従い値を入力
-  2. WIIScrubber.exe を起動し, 「LOAD ISO」をクリックし, RSBJ01 の ROM を選択
-  3. Partition 4, 6 の main.dol を選択し, 右クリック → 「Extract」をクリック
+<details><summary>WiiScrubber を使う方法</summary>
+
+  1. WiiScrubber をインストール
+     https://wiidatabase.de/downloads/pc-tools/wiiscrubber/
+  2. MakeKeyBin.exe を起動し, ウィンドウの指示に従い値を入力
+  3. WIIScrubber.exe を起動し, 「LOAD ISO」をクリックし, RSBJ01 の ROM を選択
+  4. Partition 4, 6 の main.dol を選択し, 右クリック → 「Extract」をクリック
   
 </details>
