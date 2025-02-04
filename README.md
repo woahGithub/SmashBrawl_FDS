@@ -25,7 +25,7 @@
 
   1. [WiiScrubber](https://wiidatabase.de/downloads/pc-tools/wiiscrubber/) をインストール
   2. MakeKeyBin.exe を起動し, ウィンドウの指示に従い値を入力
-  3. WIIScrubber.exe を起動し, 「LOAD ISO」をクリックし, RSBJ01 の ROM を選択
+  3. WIIScrubber.exe を起動し, 「LOAD ISO」をクリックし, スマブラX (RSBJ01) の ROM を選択
   4. Partition 4, 6 の main.dol を選択し, 右クリック → 「Extract」をクリック
   
 </details>
