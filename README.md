@@ -15,8 +15,7 @@
 main.dol の抽出方法
 <details><summary>Dolphin を使う方法</summary>
 
-  1. Dolphin をインストール
-     https://dolphin-emu.org/
+  1. [Dolphin](https://dolphin-emu.org/) をインストール
   2. 右クリックから「プロパティ」 → 「構造」タブを開く
   3. HBAJ01, HBCJ01 でそれぞれ右クリック → 「システムデータを抽出...」 をクリック
   4. sys フォルダ に main.dol がある
@@ -24,8 +23,7 @@ main.dol の抽出方法
 </details>
 <details><summary>WiiScrubber を使う方法</summary>
 
-  1. WiiScrubber をインストール
-     https://wiidatabase.de/downloads/pc-tools/wiiscrubber/
+  1. [WiiScrubber](https://wiidatabase.de/downloads/pc-tools/wiiscrubber/) をインストール
   2. MakeKeyBin.exe を起動し, ウィンドウの指示に従い値を入力
   3. WIIScrubber.exe を起動し, 「LOAD ISO」をクリックし, RSBJ01 の ROM を選択
   4. Partition 4, 6 の main.dol を選択し, 右クリック → 「Extract」をクリック
