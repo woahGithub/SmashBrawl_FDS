@@ -1,5 +1,7 @@
 # SmashBrawl_FDS
 
+あらかじめ [Python 2.6](https://www.python.org/download/releases/2.6/) をインストールしてください
+
 ### 使い方 - ROM の吸い出し
 
 1. スマブラX (RSBJ01) のパーティション 4, 6 の main.dol をそれぞれ抽出
